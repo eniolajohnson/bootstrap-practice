@@ -17,3 +17,16 @@ p{
 .container{
   max-width: 960px;
 }
+
+img{
+  width: 18%;
+}
+
+.row .card{
+  border: none;
+}
+
+#underline > li:hover {
+  text-decoration: underline;
+  border
+}
